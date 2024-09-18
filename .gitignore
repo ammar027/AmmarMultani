@@ -1,1 +1,45 @@
-node_modules
+# Dependency directories
+/node_modules
+
+# Build output
+/.next
+/out
+/.next/
+
+# Static files
+/public/static
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js build cache
+/.next/cache
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.history/
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+*.sublime-project
+
+# Other files
+*.tgz
+*.zip
+*.tar.gz
+*.rar
