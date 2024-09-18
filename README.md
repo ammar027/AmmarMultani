@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MyPortfolio
 
-## Getting Started
+This personal portfolio website built with Next.js, React, and Tailwind CSS. It showcases my projects and skills with interactive and visually appealing design elements.
 
-First, run the development server:
+## Features
+
+- **Dynamic Content:** Utilizes React and Next.js for a dynamic and responsive UI.
+- **Tailwind CSS:** Employs Tailwind CSS for modern styling and layout.
+- **Three.js Integration:** Integrates `three.js` for 3D graphics and animations.
+- **Lottie Animations:** Uses Lottie for rich, interactive animations.
+- **React-Three Integration:** Includes `@react-three/fiber` and `@react-three/drei` for React-based 3D rendering.
+
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/ammar027/AmmarMultani.git
+    cd AmmarMultani
+    ```
+
+2. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+4. Open your browser and navigate to `http://localhost:3000` to see the application in action.
+
+## Build
+
+To create a production build of the application, run:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This will generate an optimized production build in the `.next` folder.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The application is set up for deployment on Vercel. Simply push your changes to the main branch of your GitHub repository, and Vercel will automatically build and deploy your application.
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+For any questions or inquiries, please reach out to me at [ammarmultani007@gmail.com](mailto:ammarmultani007@gmail.com).
