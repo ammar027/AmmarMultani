@@ -1,7 +1,7 @@
 "use client";
 
 import { navItems } from "@/data";
-
+import { Analytics } from "@vercel/analytics/react"
 import Hero from "@/components/Hero";
 import Grid from "@/components/Grid";
 import Footer from "@/components/Footer";
@@ -23,6 +23,7 @@ const Home = () => {
         <Experience />
         <Approach />
         <Footer />
+        <Analytics/>
       </div>
     </main>
   );
