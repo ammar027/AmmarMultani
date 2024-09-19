@@ -2401,10 +2401,6 @@ video {
     width: auto;
   }
 
-  .md\:min-w-\[70vw\] {
-    min-width: 70vw;
-  }
-
   .md\:min-w-fit {
     min-width: fit-content;
   }

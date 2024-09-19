@@ -60,7 +60,7 @@ const Hero = () => {
           Building Modern, Scalable, and Engaging Web Applications
           </p>
 
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
