@@ -52,7 +52,7 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Hi! I&apos;m Ammar Multani, MERN stack and Next.js Developer."
+            words="Hi! I&apos;m Ammar Multani, Web and App Developer."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
