@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-          Building Modern, Scalable, and Engaging Web Applications
+          Building Modern, Scalable, and Engaging Web & Mobile Applications
           </p>
 
           <a href="#projects">
